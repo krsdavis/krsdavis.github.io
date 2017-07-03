@@ -68,4 +68,7 @@ theme: anodyne
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://krsdavis@github.com/krsdavis/krsdavis.github.io.git
+  branch: master
+  message: Website deployed
