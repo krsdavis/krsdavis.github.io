@@ -69,6 +69,6 @@ theme: anodyne
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://krsdavis@github.com/krsdavis/krsdavis.github.io.git
-  branch: master
+  repo: https://krsdavis@github.com/krsdavis/homelessatx.git
+  branch: gh-pages
   message: Website deployed
