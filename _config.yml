@@ -70,5 +70,5 @@ theme: anodyne
 deploy:
   type: git
   repo: https://krsdavis@github.com/krsdavis/krsdavis.github.io.git
-  branch: gh-pages
+  branch: master
   message: Website deployed
