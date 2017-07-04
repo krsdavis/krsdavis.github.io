@@ -17,10 +17,6 @@ index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/
 # Default post title
 default_post_title: Untitled
 
-# About Widget
-about_widget_avatar_url: https://avatars0.githubusercontent.com/u/23219964?v=3&s=460
-about_widget_text: "My name is Krystel Rae Davis and I want to encourage others to facilicate change."
-
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
@@ -41,11 +37,10 @@ addthis:
 favicon:
 
 # Social Accounts
-  - url: https://twitter.com/krystelraedavis
-    fa_icon: fa-twitter
-  - url: https://www.facebook.com/krystelrae
-    fa_icon: fa-facebook
-  - url: https://github.com/krsdavis
-    fa_icon: fa-github
-  - url: mailto:krae@homelessatx.com
-    fa_icon: fa-envelope
+twitter_url: https://twitter.com/krystelraedavis
+twitter_handle: krystelraedavis
+facebook_url: https://www.facebook.com/krystelrae
+github_url: https://github.com/krsdavis
+gitlab_url:
+linkedin_url:
+mailto: mailto:krae@homelessatx.com
