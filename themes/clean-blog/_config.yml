@@ -1,21 +1,21 @@
 # Header
 menu:
-  Home: /
   Archives: /archives
-  Tags: /tags
-  Categories: /categories
-  Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
-    icon: github
+  Resources: /resources
+  About: /about
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: Home
 
 # URL of the Home page image
-index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
-
+index_cover: /images/homeless-2182114_1280.jpg
 # Default post title
 default_post_title: Untitled
+default_post_icon: fa-file-text-o
+
+# About Widget
+about_widget_avatar_url: https://avatars0.githubusercontent.com/u/23219964?v=3&s=460
+about_widget_text: "My name is Krystel Rae Davis and I want to encourage others to facilicate change."
 
 # Comments. Choose one by filling up the information
 comments:
