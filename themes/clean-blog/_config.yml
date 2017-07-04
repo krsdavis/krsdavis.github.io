@@ -37,10 +37,11 @@ addthis:
 favicon:
 
 # Social Accounts
-twitter_url:
-twitter_handle:
-facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
-gitlab_url:
-linkedin_url:
-mailto:
+  - url: https://twitter.com/krystelraedavis
+    fa_icon: fa-twitter
+  - url: https://www.facebook.com/krystelrae
+    fa_icon: fa-facebook
+  - url: https://github.com/krsdavis
+    fa_icon: fa-github
+  - url: mailto:krae@homelessatx.com
+    fa_icon: fa-envelope
