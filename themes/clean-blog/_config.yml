@@ -17,10 +17,14 @@ index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/
 # Default post title
 default_post_title: Untitled
 
+# About Widget
+about_widget_avatar_url: https://avatars0.githubusercontent.com/u/23219964?v=3&s=460
+about_widget_text: "My name is Krystel Rae Davis and I want to encourage others to facilicate change."
+
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname:
+  disqus_shortname: homelessatx-com
   # Facebook comments
   facebook:
     appid:
