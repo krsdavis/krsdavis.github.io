@@ -2,6 +2,7 @@
 title: Let's Talk About Homelessness
 date: 2017-06-21
 tags: Homeless, ATX, Progress, Texas
+cover: /images/pexels-photo-lightbulb.jpeg
 ---
 I recently went to an event discussing homelessness. This has been an area I have wanted to learn more about. I thought this issue was too big and never thought I could do anything about it. After attending this event, I realized there are so many organizations and people in Austin that are trying to help provide resources and stability to people who need it the most. It seems like there is progress being made, but how much?
 
