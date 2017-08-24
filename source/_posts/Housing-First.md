@@ -18,6 +18,8 @@ So, what can be done? *Permanent supportive housing* and *Housing First* initiat
 * A 2009 study in Seattle found that the average cost of services for chronically homeless individuals was $4,066 per person per month. When placed in permanent housing with supportive services, the total monthly cost savings of housing these individuals averaged $2,449 per person.
 
 
+
+
 ##### Resources: 
 
 ##### 1. https://thinkprogress.org/leaving-homeless-person-on-the-streets-31-065-giving-them-housing-10-051-3107834a8632/
