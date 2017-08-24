@@ -12,7 +12,8 @@ What are Miracle Messages? Miracle Messages are short video messages from homele
 
 To date, 90% of loved ones have received their message positively, and 40% of reunions have lead to stable housing or living with family again. 
 
-If you would like to learn more or get involved, join the movement: miraclemessages.org/getinvolved
+If you would like to learn more or get involved, join the movement: [Miracle Messages](http://miraclemessages.org/getinvolved/ "MM org")
+
 
 
 
