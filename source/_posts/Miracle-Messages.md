@@ -3,7 +3,7 @@ title: Miracle Messages
 comments: true
 date: 2017-08-23 19:33:10
 tags: Miracle Messages, Homeless, ATX, Progress, Austin, Texas
-cover: /images/pexels-photo-165263.jpeg
+cover: /images/pexels-photo-bear.jpeg
 ---
 
 I came across Miracle Messages when I started looking into what I could do to help the homeless. Founder Kevin F. Adler started Miracle Messages in honor of his uncle Mark, who suffered from schizophrenia and lived on-and-off the streets for 30 years. Miracle Messages' mission is to mobilize the internet to reunite the world, and aims to reunite 1 million homeless people with their loved ones by 2021.
