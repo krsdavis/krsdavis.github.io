@@ -55,18 +55,26 @@
                 <%- partial('gallery') %>
             <% } %>
 
-            <!-- Post Main Content -->
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <%- item.content %>
+            <div class="row">
 
-                <% if(theme.addthis) { %>
-                    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-                    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=<%- theme.addthis %>"></script>
+                <!-- Post Main Content -->
+                <div class="col-lg-7 col-lg-offset-1 col-md-7 col-md-offset-1">
+                    <%- item.content %>
 
-                    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-                    <div class="addthis_sharing_toolbox"></div>
-                <% } %>
+                    <% if(theme.addthis) { %>
+                        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=<%- theme.addthis %>"></script>
+
+                        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                        <div class="addthis_sharing_toolbox"></div>
+                    <% } %>
+                </div>
+                <div class="col-lg-2 col-lg-offset-1 col-md-2 col-md-offset-1 col-xs-offset-3 col-xs-6">
+                    <%- partial("_partial/sidebar.ejs") %>
+                </div>
+
             </div>
+            
 
             <!-- Comments -->
             <% if (item.comment != false) { %>

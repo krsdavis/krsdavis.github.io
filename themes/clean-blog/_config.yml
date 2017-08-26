@@ -13,9 +13,12 @@ index_cover: /images/homeless-2182114_1280.jpg
 default_post_title: Untitled
 default_post_icon: fa-file-text-o
 
-# About Widget
-about_widget_avatar_url: https://avatars0.githubusercontent.com/u/23219964?v=3&s=460
-about_widget_text: "My name is Krystel Rae Davis and I want to encourage others to facilicate change."
+# Widgets List
+widgets:
+  author_blurb:
+    avatar_url: https://avatars0.githubusercontent.com/u/23219964?v=3&s=460
+    text: "Hi, I'm Krystel Rae and I want to encourage others to facilitate change."
+    highlight: "Let's start something good."
 
 # Comments. Choose one by filling up the information
 comments:
@@ -28,7 +31,7 @@ comments:
     comment_colorscheme: light
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-105299713-1
 
 # Addthis ID
 addthis:

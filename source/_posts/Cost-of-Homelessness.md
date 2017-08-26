@@ -19,16 +19,10 @@ So, what can be done? *Permanent supportive housing* and *Housing First* initiat
 
 
 
-
-##### Resources: 
-
-##### 1. https://thinkprogress.org/leaving-homeless-person-on-the-streets-31-065-giving-them-housing-10-051-3107834a8632/
-
-##### 2. https://thinkprogress.org/it-saves-millions-to-simply-give-homeless-people-a-place-to-live-e18ddbc1146d/
-
-##### 3. http://www.politifact.com/truth-o-meter/statements/2012/mar/12/shaun-donovan/hud-secretary-says-homeless-person-costs-taxpayers/
-
-##### 4. http://www.greendoors.org/facts/cost.php
-
-##### 5. https://www.community.solutions/sites/default/files/housingcostsavingfactsheet-zero2016.pdf
-
+<sub><sup>Resources:</sub></sup> 
+<sub><sup>1. https://thinkprogress.org/leaving-homeless-person-on-the-streets-31-065-giving-them-housing-10-051-3107834a8632/</sub></sup> 
+<sub><sup>2. https://thinkprogress.org/it-saves-millions-to-simply-give-homeless-people-a-place-to-live-e18ddbc1146d/</sub></sup> 
+<sub><sup>3. http://www.politifact.com/truth-o-meter/statements/2012/mar/12/shaun-donovan/hud-secretary-says-homeless-person-costs-taxpayers/</sub></sup> 
+<sub><sup>4. http://www.greendoors.org/facts/cost.php</sub></sup> 
+<sub><sup>5. https://www.community.solutions/sites/default/files/housingcostsavingfactsheet-zero2016.pdf
+</sub></sup> 
