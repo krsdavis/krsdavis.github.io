@@ -74,6 +74,7 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
+  background: rgba(0,0,0,0.4);
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
@@ -87,7 +88,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    background: transparent;
+    background: rgba(0,0,0,0.4);
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
