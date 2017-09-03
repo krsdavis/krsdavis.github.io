@@ -10,12 +10,11 @@
   background-size: cover;
   -o-background-size: cover;
 }
-.serif,
-body,
-.intro-header .post-heading .meta {
+.serif {
   font-family: 'Lora', 'Times New Roman', serif;
 }
 .sans-serif,
+body,
 h1,
 h2,
 h3,
@@ -26,6 +25,7 @@ h6,
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading,
 .intro-header .post-heading .subheading,
+.intro-header .post-heading .meta,
 .btn,
 .pager li > a,
 .pager li > span {
@@ -74,7 +74,6 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  background: rgba(0,0,0,0.4);
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
@@ -88,8 +87,8 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    background: rgba(0,0,0,0.4);
     border-bottom: 1px solid transparent;
+    background: rgba(0,0,0,0.4);
   }
   .navbar-custom .navbar-brand {
     color: #fff;
@@ -502,7 +501,7 @@ article .container .row .pullquote.left {
   font-size: 16px;
   font-weight: bold;
   margin-top: -15px;
-  color: #3090c7;
+  color: #337ab7;
 }
 figure.highlight {
   background: #eee;
@@ -621,3 +620,4 @@ pre .clojure .title {
 pre .deletion {
   color: #dc322f;
 }
+/* testing rebuild */
