@@ -1,0 +1,21 @@
+.author-blurb-text {
+  font-size: 14px;
+}
+.author-blurb-highlight {
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: -15px;
+  color: #337ab7;
+}
+.recent-posts {
+  font-size: 14px;
+  font-weight: bold;
+}
+.recent-posts a {
+  text-decoration: none;
+  transition: color 0.15s ease-in;
+  color: #337ab7;
+}
+.button {
+  color: #337ab7;
+}
