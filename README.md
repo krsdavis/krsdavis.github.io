@@ -1,6 +1,6 @@
 # homelessatx.com
 
-[![Gitter](https://badges.gitter.im/krsdavis-github-io/Lobby.svg)](https://gitter.im/krsdavis-github-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/krsdavis-github-io/Lobby.svg)](https://gitter.im/krsdavis-github-io/homelessatx?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 My name is Krystel Rae Davis. I created this blog in order to chronicle my research into homelessness in Austin and the people I meet along the way. This site is completely open source - I am trying to make as much information as public as possible and want to encourage others to do the same. 
 
