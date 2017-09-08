@@ -14,7 +14,7 @@
 .recent-posts a {
   text-decoration: none;
   transition: color 0.15s ease-in;
-  color: #337ab7;
+  color:  rgb(64, 64, 64);
 }
 .button {
   color: #337ab7;
