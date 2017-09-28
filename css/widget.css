@@ -5,18 +5,30 @@
   font-size: 14px;
   font-weight: bold;
   margin-top: -15px;
-  color: #337ab7;
+  color: #00cdcd;
 }
-.recent-posts {
-  font-size: 14px;
+.follow-me {
+  font-size: 16px;
   font-weight: bold;
+  margin-bottom: 15px;
 }
-.recent-posts a {
+.list-inline>li {
+  display: inline-block;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: -15px;
+}
+a {
+  font-size: 14px;
   text-decoration: none;
-  text-decoration-color: r #337ab7;
+  text-decoration-color: #00cdcd;
   transition: color 0.15s ease-in;
   color: #404040;
 }
 .button {
-  color: #337ab7;
+  color: #00cdcd;
 }
