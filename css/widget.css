@@ -22,13 +22,6 @@
   font-weight: bold;
   margin-bottom: -15px;
 }
-a {
-  font-size: 14px;
-  text-decoration: none;
-  text-decoration-color: #00cdcd;
-  transition: color 0.15s ease-in;
-  color: #404040;
-}
 .button {
   color: #00cdcd;
 }
