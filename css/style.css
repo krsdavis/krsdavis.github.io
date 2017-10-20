@@ -43,6 +43,9 @@ p a,
 li a {
   text-decoration: underline;
 }
+.main-content a {
+  font-size: 20px;
+}
 h1,
 h2,
 h3,
@@ -80,7 +83,7 @@ hr.small {
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 800;
   letter-spacing: 1px;
   text-decoration: none;
@@ -663,10 +666,10 @@ pre .article-footer a:hover {
   padding-right: 0px;
   padding-left: 0px;
 }
-.title {
+.recent-posts-title {
   font-size: 16px;
   font-weight: bold;
-  margin-bottom: -15px;
+  margin-bottom: -5px;
 }
 a {
   font-size: 14px;
@@ -674,6 +677,10 @@ a {
   text-decoration-color: #00cdcd;
   transition: color 0.15s ease-in;
   color: #404040;
+}
+.recent-blog-posts {
+  line-height: 1;
+  margin-top: 20px;
 }
 .button {
   color: #00cdcd;
