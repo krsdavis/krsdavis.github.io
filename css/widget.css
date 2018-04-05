@@ -5,34 +5,18 @@
   font-size: 14px;
   font-weight: bold;
   margin-top: -15px;
-  color: #00cdcd;
+  color: #337ab7;
 }
-.follow-me {
-  font-size: 16px;
-  font-weight: bold;
-  margin-bottom: 15px;
-}
-.list-inline>li {
-  display: inline-block;
-  padding-right: 0px;
-  padding-left: 0px;
-}
-.recent-posts-title {
-  font-size: 16px;
-  font-weight: bold;
-  margin-bottom: -5px;
-}
-a {
+.recent-posts {
   font-size: 14px;
+  font-weight: bold;
+}
+.recent-posts a {
   text-decoration: none;
-  text-decoration-color: #00cdcd;
+  text-decoration-color: r #337ab7;
   transition: color 0.15s ease-in;
   color: #404040;
 }
-.recent-blog-posts {
-  line-height: 1;
-  margin-top: 20px;
-}
 .button {
-  color: #00cdcd;
+  color: #337ab7;
 }
